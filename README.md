@@ -31,5 +31,7 @@ Usage = /(Commandname) (RSN)
 ###Links
 
 [Youtube](http://youtube.com/c/mrrelliks/)
+
 [Twitter](http://twitter.com/mattthedean)
+
 [Relliks Chill Zone (Discord)](https://discord.gg/kTmWQ8JDRv)
