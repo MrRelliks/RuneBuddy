@@ -1,3 +1,7 @@
+<p align="center">
+  <a href=https://github.com/MrRelliks/RuneBuddy">
+    <img src="http://r3l.itmatt.co/images/image1.png" alt="Logo" width="120" height="120">
+                                                                                       </a></p>
 ### Rune Buddy
 Rune Buddy is a multi purpose discord bot for Runescape 3, feel free to invite the bot into your servers.
 
@@ -5,6 +9,14 @@ Rune Buddy is a multi purpose discord bot for Runescape 3, feel free to invite t
 
 
 [![Invite Rune Buddy](https://hypixel.net/attachments/invitenow-png.1612590/ "Invite Rune Buddy")](https://discord.com/oauth2/authorize?client_id=703207823777202186&permissions=8&scope=bot%20applications.commands "Invite Rune Buddy")
+
+## Built With
+
+This Project has been Built with the following.
+
+* [Python](https://www.python.org/)
+* [VisWax By arghasarkar](https://github.com/arghasarkar/discord-bot-runescape-vis-wax)
+
 ### Features
 
 Slash commands to make life a lot easier for everyone.
