@@ -1,5 +1,9 @@
 ### Rune Buddy
 Rune Buddy is a multi purpose discord bot for Runescape 3, feel free to invite the bot into your servers.
+
+[Rune Buddies (Discord Server)](https://discord.gg/kTmWQ8JDRv)
+
+
 [![Invite Rune Buddy](https://hypixel.net/attachments/invitenow-png.1612590/ "Invite Rune Buddy")](https://discord.com/oauth2/authorize?client_id=703207823777202186&permissions=8&scope=bot%20applications.commands "Invite Rune Buddy")
 ### Features
 
@@ -34,4 +38,3 @@ Usage = /(Commandname) (RSN)
 
 [Twitter](http://twitter.com/mattthedean)
 
-[Relliks Chill Zone (Discord)](https://discord.gg/kTmWQ8JDRv)
