@@ -36,21 +36,18 @@ Grab a price from the grand exchange (I reccomend using SUITY Bot for more accur
 
 <details>
   <summary><code>/Time</code></summary>
-![Time](https://i.imgur.com/BmRjlGy.png)
 
 Get the current game time.
 </details>
 
 <details>
   <summary><code>/combatlvl</code></summary>
-![combatlvl](https://i.imgur.com/WkNzVsY.png)
 
 Quickly display the combat level of a particular user. (uses Rune Metrics).
 </details>
 
 <details>
   <summary><code>/stats</code></summary>
-![Stats](https://i.imgur.com/u8CedvB.png)
 
 Displays your runescape 3 stats in an embed.
 </details>
@@ -59,7 +56,7 @@ Displays your runescape 3 stats in an embed.
 
 <details>
   <summary><code>/totallvl</code></summary>
-![TotalLvl](https://i.imgur.com/r3BVQOR.png)
+
 
 Displays your total level. Pulled from the Runescape Highscores.
 </details>
