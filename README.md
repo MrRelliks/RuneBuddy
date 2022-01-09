@@ -25,33 +25,113 @@ RSN = Runescape 3 Name
 
 Usage = /(Commandname) (RSN)
 
-**/price** Grab a price from the grand exchange (I reccomend using SUITY Bot for more accurate pricing on high tier items)
+<details>
+  <summary><code>/price</code></summary>
 
-**/Time** Get the current game time.
+![Price](https://i.imgur.com/e5hzaJQ.png)
 
-**/combatlvl** Quickly display the combat level of a particular user. (uses Rune Metrics).
+Grab a price from the grand exchange (I reccomend using SUITY Bot for more accurate pricing on high tier items)
+</details>
 
-**/stats "RSN"** Displays your Runescape 3 Stats in an embed.
 
-**/totallvl "RSN"** Displays your total Level.
+<details>
+  <summary><code>/Time</code></summary>
+![Time](https://i.imgur.com/BmRjlGy.png)
 
-**/totalxp "RSN"** Displays your total XP
+Get the current game time.
+</details>
 
-**/rank "RSN"** Displays your overall ranking on the Runescape Highscores.
+<details>
+  <summary><code>/combatlvl</code></summary>
+![combatlvl](https://i.imgur.com/WkNzVsY.png)
 
-**/online** See how many people are playing Runescape. (Includes OSRS too)
+Quickly display the combat level of a particular user. (uses Rune Metrics).
+</details>
 
-**/howmany** See how many registered users there are currently.
+<details>
+  <summary><code>/stats</code></summary>
+![Stats](https://i.imgur.com/u8CedvB.png)
 
-**/priffreqs** See if a particular user has the requirements to complete the Priff Questline.
+Displays your runescape 3 stats in an embed.
+</details>
 
-**/viswax** See the current viswax combinations.
+
+
+<details>
+  <summary><code>/totallvl</code></summary>
+![TotalLvl](https://i.imgur.com/r3BVQOR.png)
+
+Displays your total level. Pulled from the Runescape Highscores.
+</details>
+
+<details>
+  <summary><code>/totalxp</code></summary>
+<br>
+  
+
+Displays your total XP. Pulled from the Runescape Highscores.
+</details>
+
+<details>
+  <summary><code>/rank</code></summary>
+<br>
+  
+
+Displays your player rank. Pulled from the Runescape Highscores.
+</details>
+
+<details>
+  <summary><code>/online</code></summary>
+<br>
+  
+
+Displays how many people are currently playing Runescape (Includes OSRS too)
+</details>
+
+
+<details>
+  <summary><code>/howmany</code></summary>
+<br>
+  
+
+Displays how many registered users there are for Runescape.
+</details>
+
+<details>
+  <summary><code>/priffreqs</code></summary>
+<br>
+  
+
+Quickly see if you meet the requirements for the Priff questline.
+</details>
+
+<details>
+  <summary><code>/viswax</code></summary>
+<br>
+  
+
+See the current viswax combinations.
+</details>
+
+
              
  ### Admin Commands 
+ <details>
+  <summary><code>/ban</code></summary>
+<br>
+  
+
+Ban a user from your discord server.
+</details>
              
- **/ban** Ban a user from the discord.
+ <details>
+  <summary><code>/kick</code></summary>
+<br>
+  
+
+Kicks a user from your server.
+</details>
              
- **/kick** Kick a user from the discord.
 
              
 
