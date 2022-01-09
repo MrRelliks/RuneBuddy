@@ -17,13 +17,17 @@ This Project has been Built with the following.
 * [Python](https://www.python.org/)
 * [VisWax By arghasarkar](https://github.com/arghasarkar/discord-bot-runescape-vis-wax)
 
-### Features
+### General Commands
 
 Slash commands to make life a lot easier for everyone.
 
 RSN = Runescape 3 Name
 
 Usage = /(Commandname) (RSN)
+
+**/price** Grab a price from the grand exchange (I reccomend using SUITY Bot for more accurate pricing on high tier items)
+
+**/Time** Get the current game time.
 
 **/combatlvl** Quickly display the combat level of a particular user. (uses Rune Metrics).
 
@@ -42,6 +46,14 @@ Usage = /(Commandname) (RSN)
 **/priffreqs** See if a particular user has the requirements to complete the Priff Questline.
 
 **/viswax** See the current viswax combinations.
+             
+ ### Admin Commands 
+             
+ **/ban** Ban a user from the discord.
+             
+ **/kick** Kick a user from the discord.
+
+             
 
 
 ### Links
