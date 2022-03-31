@@ -2,7 +2,7 @@
   <a href=https://github.com/MrRelliks/RuneBuddy">
     <img src="http://r3l.itmatt.co/images/image1.png" alt="Logo" width="120" height="120">
                                                                                        </a></p>
-### Rune Buddy
+### Rune Buddy (Discontinued)
 Rune Buddy is a multi purpose discord bot for Runescape 3, feel free to invite the bot into your servers.
 
 [Rune Buddies (Discord Server)](https://discord.gg/kTmWQ8JDRv)
